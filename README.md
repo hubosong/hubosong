@@ -1,6 +1,6 @@
-Hi! My name is Hu 胡博嵩 from Brazil. I currently work as Front-End Developer. I'm passionate about technology.
+Hi! My name is Hu 胡博嵩 from Brazil. I currently work as Mobile Developer. I'm passionate about technology, science e languages.
 
-In my free time I like to study languages as Mandarin and English, to watch movies (📼), to listen to music (🎵) and eventually I like to philosophize about world with a beer (🍺) and pizza (🍕).
+In my free time I like to play games, to study languages, to watch movies and eventually I like to philosophize about world.
 
 Would you like to find me?
 
